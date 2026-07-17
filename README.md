@@ -1,7 +1,7 @@
 # Custom 16-bit Processor in Verilog
 
 ## Overview
-This project implements a custom 16-bit Instruction Set Architecture (ISA) processor using Verilog HDL. The processor is based on the **Harvard Architecture**, featuring separate instruction and data memories. It includes a custom ALU, a Register File with 8 general-purpose registers, and a Status Register (SR) for handling conditional execution based on flags.
+This project implements a custom 16-bit Instruction Set Architecture (ISA) processor using Verilog HDL back in 2022. The processor is based on the **Harvard Architecture**, featuring separate instruction and data memories. It includes a custom ALU, a Register File with 8 general-purpose registers, and a Status Register (SR) for handling conditional execution based on flags.
 
 ## Architecture Highlights
 * **Data Width:** 16-bit data registers and memory datapath.
